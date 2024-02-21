@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNtFD42Diw0PNaPfPUwVgiTfx8DT4jD6ZRb/KPmeqIUPZCU7mdRlXYN1Ra7lGNgdU7flsEX3GQvnFLyun1gTKw==",
+  "success": true,
+  "projectFilePath": "/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/TicTacToe.csproj",
+  "expectedPackageFiles": [
+    "/Users/lauritzandersen/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/lauritzandersen/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/lauritzandersen/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.26/microsoft.netcore.app.host.osx-arm64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
