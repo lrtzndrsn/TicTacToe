@@ -1,0 +1,14 @@
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/bin/Debug/net6.0/TicTacToe
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/bin/Debug/net6.0/TicTacToe.deps.json
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/bin/Debug/net6.0/TicTacToe.runtimeconfig.json
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/bin/Debug/net6.0/TicTacToe.dll
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/bin/Debug/net6.0/TicTacToe.pdb
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/obj/Debug/net6.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfo.cs
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/obj/Debug/net6.0/TicTacToe.dll
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/obj/Debug/net6.0/refint/TicTacToe.dll
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/obj/Debug/net6.0/TicTacToe.pdb
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/obj/Debug/net6.0/TicTacToe.genruntimeconfig.cache
+/Users/lauritzandersen/Documents/CodeProjects/DIKU/SU/TicTacToeAndSortingCards/TicTacToe/obj/Debug/net6.0/ref/TicTacToe.dll
